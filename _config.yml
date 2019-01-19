@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "Portugal"
+title                    : "PT Surg"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "PT Surg"
+description              : "Website for the Portuguese Surgical Research Collaborative"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -82,8 +82,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
+twitter: https://twitter.com/pt_surg
+  username               : @pt_surg
 facebook:
   username               :
   app_id                 :
@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "AS Soares"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Proud member of PT Surg"
   location         : "Somewhere"
   email            :
   links:
@@ -136,13 +136,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+       url: https://twitter.com/pt_surg
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+       url: https://github.com/asampaiosoares
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -293,3 +293,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  #_pages
+  - scope:
+    path: ""
+    type: pages
+  values:
+    layout: single
+    author_profile: true
