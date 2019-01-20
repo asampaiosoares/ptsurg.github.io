@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -83,7 +84,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : pt_surg
 facebook:
   username               :
   app_id                 :
@@ -106,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "AS Soares"
+  name             : "PT Surg"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Proud member of PT Surg"
-  location         : "Somewhere"
+  bio              : "I am an amazing person."
+  location         : "Portugal"
   email            :
   links:
     - label: "Email"
@@ -136,13 +137,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url:
+      # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url:
+      # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -293,11 +294,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-  #_pages
-  - scope:
-    path: ""
-    type: pages
-  values:
-    layout: single
-    author_profile: true
