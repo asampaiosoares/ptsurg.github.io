@@ -82,8 +82,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter: https://twitter.com/pt_surg
-  username               : @pt_surg
+twitter:
+  username               : "@pt_surg"
 facebook:
   username               :
   app_id                 :
