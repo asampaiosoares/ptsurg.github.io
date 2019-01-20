@@ -83,7 +83,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -136,13 +136,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: https://twitter.com/pt_surg
+       url: "https://twitter.com/pt_surg"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: https://github.com/asampaiosoares
+       url: "https://github.com/asampaiosoares"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
