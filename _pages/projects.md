@@ -5,7 +5,7 @@ permalink: /projects/
 
 ## Recruited for:
 * [Right Iliac Fossa Treatment Audit](http://wmresearch.org.uk/studies/)
- - Undergoing data analysis
+** Undergoing data analysis
 
 * [Ileus Management International](http://eurosurg.org/imagine-hub/)
 ** Undergoing data analysis
