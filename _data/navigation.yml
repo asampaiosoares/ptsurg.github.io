@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "The team"
-    url: https://asampaiosoares.github.io/ptsurg/equipa/
+    url: https://asampaiosoares.github.io/ptsurg/team/
   - title: "Projects"
-    url: https://asampaiosoares.github.io/ptsurg/projetos/
+    url: https://asampaiosoares.github.io/ptsurg/projects/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
