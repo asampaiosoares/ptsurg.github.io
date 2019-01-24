@@ -4,8 +4,8 @@ main:
     url: https://asampaiosoares.github.io/ptsurg/team/
   - title: "Projects"
     url: https://asampaiosoares.github.io/ptsurg/projects/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Calendar"
+    url: /calendar/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

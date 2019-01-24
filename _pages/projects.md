@@ -4,27 +4,16 @@ permalink: /projects/
 ---
 
 ## Recruited for:
-* [Right Iliac Fossa Treatment Audit](http://wmresearch.org.uk/studies/)
+* [Right Iliac Fossa Treatment Audit](http://wmresearch.org.uk/studies/) *(data analysis)*
 
-Undergoing data analysis
+* [Ileus Management International](http://eurosurg.org/imagine-hub/) *(data analysis)*
 
-* [Ileus Management International](http://eurosurg.org/imagine-hub/)
 
-Undergoing data analysis
+* [Oesophago-gastric Anastomosis Audit](https://www.ogaa.org.uk/) *(collecting follow up data)*
 
-* [Oesophago-gastric Anastomosis Audit](https://www.ogaa.org.uk/)
-
-Collecting follow up data
-
-* [Globalsurg3](https://globalsurg.org/projects/cohort-studies/globalsurg-3/)
-
-Undergoing data analysis
+* [Globalsurg3](https://globalsurg.org/projects/cohort-studies/globalsurg-3/) *(data analysis)*
 
 ## Planned projects:
-* Portuguese Inguinal Hernia Cohort Study
+* Portuguese Inguinal Hernia Cohort Study *(in development)*
 
-In development
-
-* LapNET
-
-In development
+* LapNET *(in development)*
