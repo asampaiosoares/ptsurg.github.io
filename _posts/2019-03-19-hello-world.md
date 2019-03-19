@@ -5,7 +5,8 @@ permalink: /2019-03-19-hello-world/
 ---
 This is our first post - welcome! We are very excited to share with you some of the work the group has been doing.
 
-PT Surg will be doing 4 podium presentations:
+PT Surg will be doing 4 podium presentations at the Portuguese Surgical Society [meeting](http://www.spcir.com/congresso/):
+
 ### LapNET
 21st March, 14:00, room 1
 
