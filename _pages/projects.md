@@ -16,7 +16,7 @@ permalink: /projects/
 ## Planned projects:
 * Portuguese Inguinal Hernia Cohort Study *(in development)*
 
-* LapNET *(in development)*
+* [LapNET](http://ptsurg.org/lapnet/) *(in development)*
 
 ## Past presentations
 If you have presented a project in which PT Surg was involved please fill [this form](https://goo.gl/forms/Uiji7bUyg4RswNNJ2) so we can gather all the data to share with the remaining collaborators.
