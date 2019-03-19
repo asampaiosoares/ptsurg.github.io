@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "The team"
-    url: https://asampaiosoares.github.io/ptsurg/team/
   - title: "Projects"
     url: https://asampaiosoares.github.io/ptsurg/projects/
   - title: "Calendar"
     url: /calendar/
+  - title: "The team"
+    url: https://asampaiosoares.github.io/ptsurg/team/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
