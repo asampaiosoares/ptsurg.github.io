@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 permalink: /hello_world/
-layout:posts
+layout: posts
 ---
 This is our first post - welcome! We are very excited to share with you some of the work the group has been doing.
 
