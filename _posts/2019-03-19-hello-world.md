@@ -8,6 +8,7 @@ This is our first post - welcome! We are very excited to share with you some of 
 PT Surg will be doing 4 podium presentations:
 ### LapNET
 21st March, 14:00, room 1
+
 Further information [here](http://ptsurg.org/lapnet/)
 
 ### IMAGINE
