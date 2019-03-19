@@ -16,7 +16,7 @@ permalink: /projects/
 ## Planned projects:
 * Portuguese Inguinal Hernia Cohort Study *(in development)*
 
-* [LapNET](https://asampaiosoares.github.io/ptsurg/lapnet/) *(in development)*
+* [LapNET](http://ptsurg.org/lapnet/) *(in development)*
 ** Preliminary work
 
 ## Past presentations
