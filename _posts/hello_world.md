@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: "Hello world!"
 date: 2019-03-20
 permalink: /hello_world/
