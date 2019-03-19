@@ -1,7 +1,7 @@
 ---
 title: "Hello world!"
-date: 2019-03-20
-permalink: /hello_world/
+date: 2019-03-19
+permalink: /2019-03-19-hello-world/
 ---
 This is our first post - welcome! We are very excited to share with you some of the work the group has been doing.
 
