@@ -10,6 +10,6 @@ You can check the necessary documents here:
 - [Informed Consent model](https://drive.google.com/file/d/1AJ_MXTwgszpU-qjqo6CFr7ORx5R6Vl5x/view) *GDPR compliant*
 - [Protocol (EN)](https://drive.google.com/file/d/1uDBsQczL1tyC_Bnz4NsWc8MP3swsMmIe/view?usp=sharing)
 
-Interested in knowing more? Leave your email [here](https://forms.gle/MDLfqpLVZG8676Zh6) and we will get in touch shortly!
+Currently we are in the follow up period! Expect some preliminary results soon!
 
 Catch up on the most recent developments on [twitter](https://twitter.com/pt_surg)
